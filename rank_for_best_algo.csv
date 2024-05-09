@@ -1,0 +1,4 @@
+,Silhouette,Calinski-Harabasz,Davies-Bouldins,Topsis Score,Rank
+K-Means,10.4721,10074.652,11.7819,0.5476033198231629,2.0
+Spectral,10.4722,9192.2095,10.8722,0.5959774251175249,1.0
+Density Based Spectral,7.9743,4175.1597,29.8311,0.4397876884586227,3.0

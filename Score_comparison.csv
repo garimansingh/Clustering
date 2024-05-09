@@ -1,0 +1,4 @@
+,Silhouette,Calinski-Harabasz,Davies-Bouldins
+K-Means,10.4721,10074.652,11.7819
+Spectral,10.4722,9192.2095,10.8722
+Density Based Spectral,7.9743,4175.1597,29.8311
